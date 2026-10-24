@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>Olá! Eu sou o Thales Queiroga 👋</h1>
+<h1>Olá! Me chamo Thales Queiroga 👋</h1>
 
 <p>
   Profissional de TI em transição de carreira para Desenvolvimento de Software.
